@@ -86,6 +86,7 @@ Wit these instructions you should be able to start Yahoo! Widgets and the
 menubar item should appear. Widgets can then be started from the menubar or by 
 double-clicking on the KON file in the usual way.
 
+![musical_christmas_advent_bauble_widgets_by_yereverluvinuncle](https://github.com/yereverluvinunclebert/christmas-baubles/assets/2788342/1f39fb55-62a5-45be-8095-1bdfb5bade10)
 
 LICENCE AGREEMENTS:
 
