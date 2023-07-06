@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <name>Christmas-Baubles</name>
+    <version>1.4</version>
+    <platform minVersion = "4.5" />
+    <image usage="dock" src="Resources/images/icon.png"/>
+    <author name="Dean Beedell" href="aqqc35@dsl.pipex.com"/>
+    <copyright>(c)2011,2018 Dean Beedell and Harry Whitfield</copyright>
+    <description>Displays a set of musical Christmas baubles on your desktop.</description>
+    <image usage="security" src="Resources/security.png"/>
+    <security>
+        <filesystem>full</filesystem>
+        <http>all</http>
+        <applescript>true</applescript>
+        <command>true</command>
+        <hotkey>false</hotkey>
+    </security>
+</metadata>
