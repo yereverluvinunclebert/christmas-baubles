@@ -4,6 +4,7 @@ Christmas-baubles Desktop Yahoo Widget, written in Javascript and XML for the Ya
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![christmasbaubles001](https://github.com/yereverluvinunclebert/christmas-baubles/assets/2788342/4638fd48-7810-43f4-b8ad-6df17dd46097)
 
 This Christmas-baubles Desktop Widget is an attractive dieselpunk Yahoo widget 
 for your desktop. This Konfabulator/ yahoo widget provides a simple old fashioned 
@@ -12,12 +13,14 @@ Each bauble acts a part of an advent calendar, having a number from 1 to 25 that
 you can click upon. When clicked a door will open, a Christmas scene will appear 
 and some appropriately Christmassy music will be played.
 
+![christmas-baubles-help](https://github.com/yereverluvinunclebert/christmas-baubles/assets/2788342/a0d1a1b1-89fa-47f6-a37b-d533379a4144)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
 creates the widget according to the XML description and using the images you 
 provide. Designed and built by myself and Harry Whitfield.
 
+![christmasplaque](https://github.com/yereverluvinunclebert/christmas-baubles/assets/2788342/8862f387-c8df-4a90-8b62-27e42ee95f1f)
 
 Built using: 
 
